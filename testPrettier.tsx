@@ -1,7 +1,3 @@
 export function TestPrettier() {
-  return      <h1>       
-    
-    
-    
-    test prettier</h1>
+  return <h1>test prettier</h1>
 }
